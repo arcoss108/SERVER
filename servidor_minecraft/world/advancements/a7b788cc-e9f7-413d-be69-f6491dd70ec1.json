@@ -1492,15 +1492,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_string": "2025-04-30 18:26:10 +0000"
+      "fortress": "2025-04-30 18:01:42 +0000"
     },
     "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-30 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-30 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-30 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-30 18:26:10 +0000"
     },
     "done": true
   },
@@ -1513,12 +1531,6 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-30 18:26:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-30 18:04:17 +0000"
     },
     "done": true
   },
@@ -1537,18 +1549,6 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-30 18:26:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-04-30 18:01:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-30 18:04:17 +0000"
     },
     "done": true
   },
