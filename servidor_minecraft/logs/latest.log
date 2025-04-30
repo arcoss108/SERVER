@@ -96,3 +96,17 @@
 [22:16:57] [Server thread/WARN]: Mauu_U moved too quickly! -10.11402788286805,0.0,-1.6683626940101801
 [22:17:01] [Server thread/WARN]: Mauu_U moved too quickly! 9.436724011263271,3.3747383203857453,1.2385495205380428
 [22:18:06] [Server thread/INFO]: <Mauu_U> gamemode 1
+[22:18:51] [Server thread/INFO]: Mauu_U lost connection: Disconnected
+[22:18:51] [Server thread/INFO]: Mauu_U left the game
+[22:18:54] [User Authenticator #9/INFO]: UUID of player Mauu_U is c91008f8-18ff-464b-82be-efc876b9b970
+[22:18:56] [Server thread/INFO]: Mauu_U[/100.66.51.21:56246] logged in with entity id 16084 at (-17.29171743651216, 96.0, -0.8483467555303001)
+[22:18:56] [Server thread/INFO]: Mauu_U joined the game
+[22:18:57] [Server thread/INFO]: Cawita777 lost connection: Disconnected
+[22:18:57] [Server thread/INFO]: Cawita777 left the game
+[22:19:21] [Server thread/INFO]: Mauu_U lost connection: Disconnected
+[22:19:21] [Server thread/INFO]: Mauu_U left the game
+[22:21:12] [User Authenticator #10/INFO]: UUID of player Cawita777 is a7b788cc-e9f7-413d-be69-f6491dd70ec1
+[22:21:13] [Server thread/INFO]: Cawita777[/100.87.105.22:53118] logged in with entity id 16085 at (29.605346219594416, 97.34848358587621, -34.85967338108636)
+[22:21:13] [Server thread/INFO]: Cawita777 joined the game
+[22:21:17] [Server thread/INFO]: Cawita777 lost connection: Disconnected
+[22:21:17] [Server thread/INFO]: Cawita777 left the game
