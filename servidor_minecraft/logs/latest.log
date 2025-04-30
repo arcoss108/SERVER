@@ -15,3 +15,8 @@
 [20:16:58] [Worker-Main-1/INFO]: Preparing spawn area: 57%
 [20:16:59] [Server thread/INFO]: Time elapsed: 1750 ms
 [20:16:59] [Server thread/INFO]: Done (12.366s)! For help, type "help"
+[20:26:48] [User Authenticator #1/INFO]: UUID of player Sthendaal is 5c162ac5-6382-441a-bb84-c841f842c760
+[20:26:50] [Server thread/INFO]: Sthendaal[/100.118.59.15:59027] logged in with entity id 32 at (536.5522259225354, 101.0, -196.04800623897378)
+[20:26:50] [Server thread/INFO]: Sthendaal joined the game
+[20:27:36] [Server thread/INFO]: Sthendaal lost connection: Disconnected
+[20:27:36] [Server thread/INFO]: Sthendaal left the game
